@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VisitorsApp/static/css/main.b1bdadad.css",
+    "main.js": "/VisitorsApp/static/js/main.7c6fee4d.js",
+    "index.html": "/VisitorsApp/index.html",
+    "main.b1bdadad.css.map": "/VisitorsApp/static/css/main.b1bdadad.css.map",
+    "main.7c6fee4d.js.map": "/VisitorsApp/static/js/main.7c6fee4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1bdadad.css",
+    "static/js/main.7c6fee4d.js"
+  ]
+}
